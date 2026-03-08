@@ -1,4 +1,4 @@
-# 📐 LineUp: Composition Tools for Aseprite!
+# 📐 LineUp: A Script Tools for Aseprite!
 
 **LineUp** is a script made for [Aseprite](https://www.aseprite.org/) that draws composition guides directly onto your canvas as individual layers.
 
